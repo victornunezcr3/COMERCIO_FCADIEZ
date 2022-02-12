@@ -1,0 +1,22 @@
+{
+  "name": "comercio_fcadiez",
+  "version": "1.0.0",
+  "description": "Sitio web comercio de Finca Diez",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comercio",
+    "finca",
+    "diez",
+    "servicios",
+    "locales",
+    "alquileres",
+    "abarrotes",
+    "minisuper",
+    "profesionales"
+  ],
+  "author": "Ing. Victor Ml. Nuñez",
+  "license": "ISC"
+}
