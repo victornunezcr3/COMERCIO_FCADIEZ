@@ -2,8 +2,12 @@
   "name": "comercio_fcadiez",
   "version": "1.0.0",
   "description": "Sitio web comercio de Finca Diez",
-  "main": "index.html",
+  "source": "src/index.html",
+  "default": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,5 +22,8 @@
     "profesionales"
   ],
   "author": "Ing. Victor Ml. Nuñez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
 }
